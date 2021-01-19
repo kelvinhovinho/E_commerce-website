@@ -1,3 +1,8 @@
-*{
-    background-color: aqua;
+body{
+    height: 140vh;
+}
+
+header{
+    background-color: red;
+    height: 5vh;
 }
